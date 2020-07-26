@@ -6,6 +6,12 @@ O próximo passo deste projeto é realização de teste *end-to-end* com a ferra
 
 O arquivo de instalação `.apk` para teste encontra-se na pasta *examples*.
 
+![Imagem Login](./examples/screen1.png)
+
+![Imagem Home Bem vindo](./examples/screen2.png)
+
+**OBS:** para a primeira versão na possui validação os campos email e senha.
+
 ## Referências.
 
 -[Flutter](https://flutter.io/)
