@@ -67,11 +67,13 @@ class LoginPageState extends State<LoginPage>
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: <Widget>[
                               new TextFormField(
+                                key: Key('inputEmail'),
                                 decoration: new InputDecoration(
                                     labelText: "Digite o Email"),
                                 keyboardType: TextInputType.emailAddress,
                               ),
                               new TextFormField(
+                                key: Key('inputSenha'),
                                 decoration: new InputDecoration(
                                     labelText: "Digite a Senha"),
                                 keyboardType: TextInputType.text,
