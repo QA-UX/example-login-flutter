@@ -14,8 +14,6 @@ O arquivo de instalação `.apk` para teste encontra-se na pasta *examples*.
 
 ## Referências.
 
--[Flutter](https://flutter.io/)
-
--[Robot Framework](https://robotframework.org/robotframework/)
-
--[Appium](http://appium.io/)
+- [Flutter](https://flutter.io/)
+- [Robot Framework](https://robotframework.org/robotframework/)
+- [Appium](http://appium.io/)
