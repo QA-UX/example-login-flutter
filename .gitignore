@@ -5,6 +5,7 @@
 .vscode/
 .packages
 .pub/
+node_modules/
 build/
 ios/.generated/
 packages
