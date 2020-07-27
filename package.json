@@ -9,8 +9,9 @@
     "test": "test"
   },
   "dependencies": {
-    "appium-doctor": "^1.15.3",
     "appium": "^1.18.0",
+    "appium-doctor": "^1.15.3",
+    "appium-flutter-finder": "0.0.22",
     "cucumber": "^6.0.5",
     "jest": "^26.1.0",
     "wd": "^1.12.1"
